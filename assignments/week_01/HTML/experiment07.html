@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div
+      style="
+        margin-left: auto;
+        margin-right: auto;
+        width: 350px;
+        border: 1px solid black;
+        padding: 20px;
+        background-color: aqua;
+      "
+    >
+      <h1 style="text-align: center">Form Section</h1>
+      <form action="">
+        <label for="">Enter your phone number : </label>
+        <input type="number" /><br /><br />
+        <label for="">Enter your address : </label>
+        <textarea
+          name=""
+          id=""
+          rows="2"
+          placeholder="Enter your address"
+        ></textarea
+        ><br /><br />
+        <label for="">Enter your password : </label>
+        <input
+          type="password"
+          pattern=".{8,}"
+          title="Password must be 8 characters... "
+          required
+        />
+        <br /><br />
+        <input type="submit" value="Save" />
+      </form>
+    </div>
+  </body>
+</html>
