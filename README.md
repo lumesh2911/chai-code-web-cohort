@@ -5,7 +5,7 @@ This repo is your ultimate guide to mastering **Full-Stack Web Development** and
 
 ---
 
-## 📌 What You'll Learn:
+## 📌 What We'll Learn:
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React, Next.js
 - 🛠 **Backend**: Node.js, databases (MongoDB & PostgreSQL)
