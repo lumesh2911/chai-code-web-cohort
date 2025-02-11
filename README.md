@@ -32,7 +32,7 @@ cd chai-code-web-cohort
 
 ## 🤝 Connect with Me!
 
-Let's stay connected! Feel free to reach out or follow me on my social media platforms:
+Let's stay connected! Feel free to reach out or follow me on my this platforms:
 
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/lumesh2911/
 - 🐦 **Twitter (X)**: https://x.com/lumesh2911
